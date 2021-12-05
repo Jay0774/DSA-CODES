@@ -1,0 +1,5 @@
+.vscode/
+.vs/
+*.pdf
+bin/ 
+# I do my debugging in bin/ folder, and I'd recommend you to do the same
